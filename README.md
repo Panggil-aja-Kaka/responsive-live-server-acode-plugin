@@ -1,18 +1,6 @@
 <div align="center">
 
-<img src="icon.png" width="220">
-
-<br>
-
-<img src="https://img.shields.io/badge/License-MIT-cyan?style=plastic&logo=Robinhood">
-<img src="https://img.shields.io/gitea/v/release/Panggil-aja-Kaka/Responsive%20Live%20Server?style=plastic&logo=Github&label=Release%20%3A&color=Cyan">
-<img src="https://img.shields.io/badge/Acode-v1.12.6%20or%20above-cyan?style=plastic&logo=Acode">
-
-<br><br>
-
-<a href="https://github.com/Panggil-aja-Kaka">
-    <img src="https://img.shields.io/badge/GitHub-Bayanaka-181717?style=plastic&logo=github">
-</a>
+<img src="https://raw.githubusercontent.com/Panggil-aja-Kaka/responsive-live-server-acode-plugin/master/icon.png" width="220">
 
 <h1 style="color:cyan;">Responsive Live Server</h1>
 
@@ -24,6 +12,18 @@ Test mobile, tablet, desktop, 2K, and 4K layouts without leaving your editor.
 </div>
 
 <br><br>
+
+<h2 style="display:flex;align-items:center;gap:8px;color:cyan;">
+  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-layers-icon lucide-layers"><path d="M12.83 2.18a2 2 0 0 0-1.66 0L2.6 6.08a1 1 0 0 0 0 1.83l8.58 3.91a2 2 0 0 0 1.66 0l8.58-3.9a1 1 0 0 0 0-1.83z"/><path d="M2 12a1 1 0 0 0 .58.91l8.6 3.91a2 2 0 0 0 1.65 0l8.58-3.9A1 1 0 0 0 22 12"/><path d="M2 17a1 1 0 0 0 .58.91l8.6 3.91a2 2 0 0 0 1.65 0l8.58-3.9A1 1 0 0 0 22 17"/></svg>
+  <span>Plugin Status</span>
+</h2>
+
+<div align="center" style="background:#1e293b;display:flex;flex-wrap:wrap;gap:8px;align-items:center;justify-content:center;padding:10px;border-radius:15px;">
+ <img src="https://img.shields.io/badge/License-MIT-cyan?style=plastic&logo=Robinhood&logoColor=cyan">
+<img src="https://img.shields.io/github/v/tag/Panggil-aja-Kaka/responsive-live-server-acode-plugin?style=plastic&logo=Github&logoSize=Auto&label=Release%20%3A&color=cyan&logoColor=cyan">
+<img src="https://img.shields.io/badge/Acode%20:-v1.12.6++-cyan?style=plastic&logo=Acode&logoColor=cyan">
+
+</div>
 
 <h2 style="display:flex;align-items:center;gap:8px;color:cyan;">
   <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-list-checks-icon lucide-list-checks"><path d="M13 5h8"/><path d="M13 12h8"/><path d="M13 19h8"/><path d="m3 17 2 2 4-4"/><path d="m3 7 2 2 4-4"/></svg>
@@ -209,7 +209,7 @@ When **_Responsive Live Server_** is opened for the first time:
 
 Example:
 
-<img src="gallery/example-popup.png" width="220">
+<img align="center" src="https://raw.githubusercontent.com/Panggil-aja-Kaka/responsive-live-server-acode-plugin/master/gallery/example-popup.png" width="220">
 
 3. Press **Render**
 4. Your website will load instantly
@@ -270,7 +270,7 @@ Open :
 
 <kbd>⋮ </kbd> Menu → Screen Size
 
-<img src="gallery/example-screen.png" width="200">
+<img align="center" src="https://raw.githubusercontent.com/Panggil-aja-Kaka/responsive-live-server-acode-plugin/master/gallery/example-screen.png" width="200">
 
 Choose which template you want to use.
 
@@ -299,7 +299,7 @@ Open :
 
 <kbd>⋮ </kbd> Menu → Change URL
 
-<img src="gallery/example-url.png" width="200">
+<img align="center" src="https://raw.githubusercontent.com/Panggil-aja-Kaka/responsive-live-server-acode-plugin/master/gallery/example-url.png" width="200">
 
 Then simply type or <kbd>paste</kbd> your new server URL.
 
@@ -381,14 +381,16 @@ If you encounter any issues or unexpected behavior while using **_Responsive Liv
 **Open an issue here**
 
 <a href="https://github.com/Panggil-aja-Kaka/responsive-webview-acode-plugin" style="
-display:inline-block;
+display:flex;
+width:50%;
 align-items:center;
-padding:6px 12px;
-border-radius:999px;
+padding:12px 12px;
+gap:5px;
+border-radius:15px;
+border:.5px solid cyan;
 background:#1E293B;
 color:#67E8F9;
-font-size:12px;
-font-weight:bold;
+font-size:18px;
 ">
 <span>Create On Github</span>
 <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-square-arrow-out-up-right-icon lucide-square-arrow-out-up-right"><path d="M21 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h6"/><path d="m21 3-9 9"/><path d="M15 3h6v6"/></svg>
@@ -402,6 +404,29 @@ Please include the following information in your bug report:
 - Screenshots or error messages, if applicable.
 
 ---
+
+<h2 style="display:flex;align-items:center;gap:5px;color:cyan;">
+  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-key-round-icon lucide-key-round"><path d="M2.586 17.414A2 2 0 0 0 2 18.828V21a1 1 0 0 0 1 1h3a1 1 0 0 0 1-1v-1a1 1 0 0 1 1-1h1a1 1 0 0 0 1-1v-1a1 1 0 0 1 1-1h.172a2 2 0 0 0 1.414-.586l.814-.814a6.5 6.5 0 1 0-4-4z"/><circle cx="16.5" cy="7.5" r=".5" fill="currentColor"/></svg>
+  <span>Wanna Make Your Own ?</span>
+ </h2>
+ Bored or don't like the look? You can purchase the source code from me via my Telegram account below:
+
+<a href="https://t.me/Bayanaka_Kaka" style="
+display:flex;
+width:40%;
+align-items:center;
+justify-content:center;
+padding:12px 12px;
+gap:5px;
+border-radius:15px;
+border:.5px solid cyan;
+background:#1E293B;
+color:#67E8F9;
+font-size:18px;
+">
+<span>Telegram</span>
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-square-arrow-out-up-right-icon lucide-square-arrow-out-up-right"><path d="M21 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h6"/><path d="m21 3-9 9"/><path d="M15 3h6v6"/></svg>
+</a>
 
  <h2 style="display:flex;align-items:center;gap:5px;color:cyan;">
   <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-heart-plus-icon lucide-heart-plus"><path d="m14.479 19.374-.971.939a2 2 0 0 1-3 .019L5 15c-1.5-1.5-3-3.2-3-5.5a5.5 5.5 0 0 1 9.591-3.676.56.56 0 0 0 .818 0A5.49 5.49 0 0 1 22 9.5a5.2 5.2 0 0 1-.219 1.49"/><path d="M15 15h6"/><path d="M18 12v6"/></svg>
